@@ -4,10 +4,10 @@
 	Description: 	Superbe Child Theme 
 	Author: 		gr5
 	Template:		the-huxley
-	Version:		1.2.0
+	Version:		1.0.0
 	*/
 a {
-    color: #62abdb;
+    color: #fff;
     text-decoration: underline;
     -moz-transition: color 0.14s ease-in-out;
     -webkit-transition: color 0.14s ease-in-out;
